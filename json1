@@ -1,0 +1,14 @@
+[
+  {
+    "key": "SDU",
+    "latitude": 22.91752,
+    "longitude":-43.17798,
+    "name": "Aeroporto Santos Dumont "
+  },
+  {
+    "key": "IMP",
+    "latitude": 5.53310,
+    "longitude": -43.45665,
+    "name": "Aeroporto de Imperatriz"
+  }
+]
