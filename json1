@@ -1,7 +1,7 @@
 [
   {
     "key": "SDU",
-    "latitude":-22.91752,
+    "latitude": -22.91752,
     "longitude":-43.17798,
     "name": "Aeroporto Santos Dumont "
   },
@@ -10,5 +10,11 @@
     "latitude":-5.53307,
     "longitude":-47.45665,
     "name": "Aeroporto de Imperatriz"
+  },
+  {
+    "key": "ACTCO",
+    "latitude":-16.58920,
+    "longitude":-39.09730,
+    "name": "Agência Centro Trancoso"
   }
 ]
