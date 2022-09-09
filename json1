@@ -16,5 +16,11 @@
     "latitude":-16.58920,
     "longitude":-39.09730,
     "name": "Agência Centro Trancoso"
+  },
+   {
+    "key": "BR",
+    "latitude": -14.235004,
+    "longitude": -51.92528,
+    "name": "Brazil"
   }
 ]
