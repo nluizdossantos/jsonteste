@@ -52,5 +52,72 @@
     "latitude":-27.000181,
     "longitude":-48.630438,
     "name": "Agência Centro Balneário Camboriú"  
-  }    
+  },
+  {
+    "key": "ACBSB",
+    "latitude": -15.871195,
+    "longitude":-47.931455,
+    "name": "Agência Centro Brasília"
+	},
+	{
+    "key": "ACCOP",
+    "latitude": -22.963342,
+    "longitude":-43.173897,
+    "name": "Agência Centro Copacabana "
+	},
+	{
+    "key": "ACFAL",
+    "latitude":-23.570521,
+    "longitude":-46.691448,
+    "name": "Agência Centro Faria Lima "
+	},
+	{
+    "key": "ACIMP",
+    "latitude":-5.532869,
+    "longitude": -47.456634,
+    "name": "Agência Centro Imperatriz" 
+	},
+	{
+    "key": "ACJKK",
+    "latitude": -23.586646,
+    "longitude":-46.673481,
+    "name": "Agência Centro Juscelino Kubitschek" 
+	},
+	{
+    "key": "ACNVT"
+    "latitude":-26.882323,
+    "longitude":-48.650633,
+    "name": "Agência Centro Navegantes"
+	},
+	{
+    "key": "ACOTA",
+    "latitude": -23.620436,
+    "longitude":-46.665270,
+    "name": "Agência Centro Otávio Tarquínio  "
+	},
+	{
+    "key": "ACSAV",
+    "latitude": -19.939615,
+    "longitude":-43.932964,
+    "name": "Agência Centro Savassi "
+	},
+	{
+    "key": "ACWTC",
+    "latitude":-23.608861,
+    "longitude":-46.697308,
+    "name": "Agência Centro Shopping D&D(World Trade Center)"
+	},
+	{
+    "key": "AEXBEL"   
+    "latitude": -1.392190,
+    "longitude":-48.479942,
+    "name": "Agência Externa Aeroporto de Belém"
+	},
+	{
+    "key": "AEXBHZ",
+    "latitude": -19.660974,
+    "longitude":-43.935869,
+    "name": "Agência Externa Aeroporto de Confins  "
+	}
+  
 ]
