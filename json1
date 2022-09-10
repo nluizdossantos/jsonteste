@@ -1,21 +1,67 @@
 [
   {
-    "key": "SDU",
+    "key": "AASDU",
     "latitude": -22.91752,
     "longitude":-43.17798,
-    "name": "Aeroporto Santos Dumont "
+    "name": "Agência Aeroporto Santos Dumont "
   },
   {
-    "key": "IMP",
+    "key": "AAIMP",
     "latitude":-5.53307,
     "longitude":-47.45665,
-    "name": "Aeroporto de Imperatriz"
+    "name": "Agência Aeroporto de Imperatriz"
   },
   {
     "key": "ACTCO",
     "latitude":-16.58920,
     "longitude":-39.09730,
     "name": "Agência Centro Trancoso"
+  },
+  {
+	"key": "ACTCO",
+    "latitude":-2.90546,
+    "longitude":-40.34818,
+    "name": "Agência Aeroporto de Jericoacoara"
+  },
+  {
+	"key": "AANAT",
+    "latitude":-5.76331,
+    "longitude":-35.37272,
+    "name": "Agência Aeroporto de Natal" 
+  },
+  {
+	"key": "AANAT",
+    "latitude":-5.76331,
+    "longitude":-35.37272,
+    "name": "Agência Aeroporto de Natal"
+	  
+  },
+  {
+	"key": "AARPT",
+    "latitude":-21.139935,
+    "longitude":-47.777081,
+    "name": "Agência Aeroporto de Ribeirão Preto"
+	  
+  },
+  {
+	"key": "AAVIX",
+    "latitude":-20.267008,,
+    "longitude":-40.284031,
+    "name": "Agência Aeroporto de Vitória"
+	  
+  },
+  {
+	"key": "ACALP",
+    "latitude":-23.498627,
+    "longitude":-46.855101,
+    "name": "Agência Centro Alphavile" 
+  },
+  {
+	"key": "ACBAL",
+    "latitude":-27.000181,,
+    "longitude":-48.630438,
+    "name": "Agência Centro Balneário Camboriú"
   }
- 
+  
+
 ]
