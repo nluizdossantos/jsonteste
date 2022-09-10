@@ -38,7 +38,7 @@
   },
   {
      "key": "AAVIX",
-    "latitude":-20.267008,,
+    "latitude":-20.267008,
     "longitude":-40.284031,
     "name": "Agência Aeroporto de Vitória"  
   },
@@ -51,7 +51,7 @@
   },
   {
      "key": "ACBAL",
-    "latitude":-27.000181,,
+    "latitude":-27.000181,
     "longitude":-48.630438,
     "name": "Agência Centro Balneário Camboriú"  
   }    
