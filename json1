@@ -3,12 +3,7 @@
     "key": "AASDU",
     "latitude": -22.91752,
     "longitude":-43.17798,
-    "name": "Nome: AASDU
-Descrição: Agência Aeroporto Santos Dumont
-Tipo da filial: Agência
-Endereço: Hall Aeroporto Santos Dumont, S/N
-Estado: RJ
-Subnet: 10.8.13.0/24"
+    "name": "Agência Aeroporto Santos Dumont"
   },
   {
     "key": "AAIMP",
