@@ -52,6 +52,10 @@
     "latitude":-27.000181,
     "longitude":-48.630438,
     "name": "Agência Centro Balneário Camboriú"  
-  }
-    
+  },
+  {
+    "key": "ACBSB",
+    "latitude": -15.871195,
+    "longitude":-47.931455,
+    "name": "Agência Centro Brasília"
  ]
