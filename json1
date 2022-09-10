@@ -18,50 +18,40 @@
     "name": "Agência Centro Trancoso"
   },
   {
-	"key": "ACTCO",
+    "key": "ACTCO",
     "latitude":-2.90546,
     "longitude":-40.34818,
     "name": "Agência Aeroporto de Jericoacoara"
   },
   {
-	"key": "AANAT",
+    "key": "AANAT",
     "latitude":-5.76331,
     "longitude":-35.37272,
     "name": "Agência Aeroporto de Natal" 
   },
   {
-	"key": "AANAT",
-    "latitude":-5.76331,
-    "longitude":-35.37272,
-    "name": "Agência Aeroporto de Natal"
-	  
-  },
-  {
-	"key": "AARPT",
+     "key": "AARPT",
     "latitude":-21.139935,
     "longitude":-47.777081,
-    "name": "Agência Aeroporto de Ribeirão Preto"
-	  
+    "name": "Agência Aeroporto de Ribeirão Preto"  
   },
   {
-	"key": "AAVIX",
+     "key": "AAVIX",
     "latitude":-20.267008,,
     "longitude":-40.284031,
-    "name": "Agência Aeroporto de Vitória"
+    "name": "Agência Aeroporto de Vitória"  
+  },
+  {
+     "key": "ACALP",
+    "latitude":-23.498627,
+    "longitude":-46.855101,
+    "name": "Agência Centro Alphavile"
 	  
   },
   {
-	"key": "ACALP",
-    "latitude":-23.498627,
-    "longitude":-46.855101,
-    "name": "Agência Centro Alphavile" 
-  },
-  {
-	"key": "ACBAL",
+     "key": "ACBAL",
     "latitude":-27.000181,,
     "longitude":-48.630438,
-    "name": "Agência Centro Balneário Camboriú"
-  }
-  
-
+    "name": "Agência Centro Balneário Camboriú"  
+  }  
 ]
