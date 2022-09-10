@@ -30,7 +30,7 @@
     "name": "Agência Aeroporto de Natal" 
   },
   {
-     "key": "AARPT",
+     key": "AARPT",
     "latitude":-21.139935,
     "longitude":-47.777081,
     "name": "Agência Aeroporto de Ribeirão Preto"  
@@ -42,20 +42,20 @@
     "name": "Agência Aeroporto de Vitória"  
   },
   {
-     "key": "ACALP",
+    "key": "ACALP",
     "latitude":-23.498627,
     "longitude":-46.855101,
     "name": "Agência Centro Alphavile" 
   },
   {
-     "key": "ACBAL",
+    "key": "ACBAL",
     "latitude":-27.000181,
     "longitude":-48.630438,
     "name": "Agência Centro Balneário Camboriú"  
   },
   {
-    "key": "ACBSB",
-    "latitude": -15.871195,
-    "longitude":-47.931455,
-    "name": "Agência Centro Brasília"
+   "key": "ACCOP",
+    "latitude": -22.963342,
+    "longitude":-43.173897,
+    "name": "Agência Centro Copacabana "
  ]
