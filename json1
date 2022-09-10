@@ -17,7 +17,6 @@
     "longitude":-39.09730,
     "name": "Agência Centro Trancoso"
   },
-    },
   {
     "key": "AAJER",
     "latitude":-2.90546,
@@ -46,8 +45,7 @@
      "key": "ACALP",
     "latitude":-23.498627,
     "longitude":-46.855101,
-    "name": "Agência Centro Alphavile"
-	  
+    "name": "Agência Centro Alphavile" 
   },
   {
      "key": "ACBAL",
