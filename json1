@@ -4,6 +4,24 @@
     "latitude": -22.91752,
     "longitude":-43.17798,
     "name": "Agência Aeroporto Santos Dumont"
+  },
+  {
+    "key": "AAIMP",
+    "latitude":-5.531065,
+    "longitude":-47.459210,
+    "name": "Agência Box Aeroporto de Imperatriz"
+  },
+  {
+    "key": "ACTCO",
+    "latitude":-16.58920,
+    "longitude":-39.09730,
+    "name": "Agência Centro Trancoso"
+  },
+  {
+    "key": "AAJER",
+    "latitude":-2.90546,
+    "longitude":-40.34818,
+    "name": "Agência Aeroporto de Jericoacoara"
   }
     
  ]
