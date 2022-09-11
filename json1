@@ -4,54 +4,6 @@
     "latitude": -22.91752,
     "longitude":-43.17798,
     "name": "Agência Aeroporto Santos Dumont"
-  },
-  {
-    "key": "AAIMP",
-    "latitude":-5.531065,
-    "longitude":-47.459210,
-    "name": "Agência Box Aeroporto de Imperatriz"
-  },
-  {
-    "key": "ACTCO",
-    "latitude":-16.58920,
-    "longitude":-39.09730,
-    "name": "Agência Centro Trancoso"
-  },
-  {
-    "key": "AAJER",
-    "latitude":-2.90546,
-    "longitude":-40.34818,
-    "name": "Agência Aeroporto de Jericoacoara"
-  },
-  {
-    "key": "AANAT",
-    "latitude":-5.76331,
-    "longitude":-35.37272,
-    "name": "Agência Aeroporto de Natal" 
-  },
-  {
-     key": "AARPT",
-    "latitude":-21.139935,
-    "longitude":-47.777081,
-    "name": "Agência Aeroporto de Ribeirão Preto"  
-  },
-  {
-     "key": "AAVIX",
-    "latitude":-20.267008,
-    "longitude":-40.284031,
-    "name": "Agência Aeroporto de Vitória"  
-  },
-  {
-    "key": "ACALP",
-    "latitude":-23.498627,
-    "longitude":-46.855101,
-    "name": "Agência Centro Alphavile" 
-  },
-  {
-    "key": "ACBAL",
-    "latitude":-27.000181,
-    "longitude":-48.630438,
-    "name": "Agência Centro Balneário Camboriú"  
   }
-
+    
  ]
