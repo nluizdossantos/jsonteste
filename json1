@@ -123,121 +123,121 @@
     "key": "FW.AEXCGR",
     "latitude": -20.456006,
     "longitude":-54.673865,
-	"name": "Agência Externa Aeroporto de Campo Grande"
+    "name": "Agência Externa Aeroporto de Campo Grande"
   },
   {
     "key": "FW.AEXCPQ",
     "latitude": -23.008262,
     "longitude":-47.146656,
-	"name": "Agência Externa Aeroporto de Viracopos"
+    "name": "Agência Externa Aeroporto de Viracopos"
   },
   {
     "key": "FW.AEXCUI",
     "latitude": -15.649187,
     "longitude":-56.123146,
-	"name": "Agência Externa Aeroporto de Cuiabá "
+    "name": "Agência Externa Aeroporto de Cuiabá "
   },
   {
     "key": "FW.AEXCWB",
     "latitude": -25.537874,
     "longitude":-49.176321,
-	"name": "Agência Externa Aeroporto Curitiba "
+    "name": "Agência Externa Aeroporto Curitiba "
   },
   {
     "key": "FW.AEXFLN",
     "latitude": -27.677853,
     "longitude":-48.547361,
-	"name": "Agência Externa Aeroporto de Florianópolis "
+    "name": "Agência Externa Aeroporto de Florianópolis "
   },
   {
     "key": "FW.AEXFOR",
     "latitude": -3.780744,
     "longitude":-38.535968,
-	"name": "Agência Externa Aeroporto de Fortaleza"
+    "name": "Agência Externa Aeroporto de Fortaleza"
   },
   {
     "key": "FW.AEXGIG",
     "latitude": -22.816765,
     "longitude":-43.238511,
-	"name": "Agência Externa Aeroporto do Galeão"
+    "name": "Agência Externa Aeroporto do Galeão"
   },
   {
     "key": "FW.AEXGRU",
     "latitude": -23.447117,
     "longitude":-46.489563,
-	"name": "Agência Externa Aeroporto de Guarulhos"
+    "name": "Agência Externa Aeroporto de Guarulhos"
   },
    {
     "key": "FW.AEXGYN",
     "latitude":  -16.628278,
     "longitude": -49.207663,
-	"name": "Agência Externa Aeroporto de Goiânia"
+    "name": "Agência Externa Aeroporto de Goiânia"
   },
    {
     "key": "FW.AEXIOS",
     "latitude": -14.813993,
     "longitude":-39.033317,
-	"name": "Agência Externa Aeroporto de Ilhéus"
+    "name": "Agência Externa Aeroporto de Ilhéus"
   },
    {
     "key": "FW.AEXJPA",
     "latitude": -7.143549,
     "longitude":-34.947635,
-	"name": "Agência Externa Aeroporto de João Pessoa"
+    "name": "Agência Externa Aeroporto de João Pessoa"
   },
    {
     "key": "FW.AEXMAU",
     "latitude": -3.031747,
     "longitude":-60.046266,
-	"name": "Agência Externa Aeroporto de Manaus"
+    "name": "Agência Externa Aeroporto de Manaus"
   },
    {
     "key": "FW.AEXMCZ",
     "latitude": -9.517456,
     "longitude":-35.792929,
-	"name": "Agência Externa Aeroporto de Maceió"
+    "name": "Agência Externa Aeroporto de Maceió"
   },
    {
     "key": "FW.AEXPOA",
     "latitude": -29.992459,
     "longitude":-51.185332,
-	"name": "Agência Externa Aeroporto de Porto Alegre"
+    "name": "Agência Externa Aeroporto de Porto Alegre"
   },
    {
     "key": "FW.AEXPSG",
     "latitude": -16.439877,,
     "longitude":-39.078470,
-	"name": "Agência Externa Aeroporto de Porto Seguro"
+    "name": "Agência Externa Aeroporto de Porto Seguro"
   },
    {
     "key": "FW.AEXREC",
     "latitude": -8.132939,
     "longitude":-34.915794,
-	"name": "Agência Externa Aeroporto de Recife"
+    "name": "Agência Externa Aeroporto de Recife"
   },
    {
     "key": "FW.AEXSLZ",
     "latitude": -2.581587,
     "longitude":-44.240497,
-	"name": "Agência Externa Aeroporto de São Luís"
+    "name": "Agência Externa Aeroporto de São Luís"
   },
    {
     "key": "FW.AEXSRP",
     "latitude": -20.812270,,
     "longitude":-49.405135,
-	"name": "Agência Externa Aeroporto de São José do Rio Preto"
+    "name": "Agência Externa Aeroporto de São José do Rio Preto"
   },
    {
     "key": "FW.AEXSSA",
     "latitude": -12.906276,
     "longitude":-38.341257,
-	"name": "Agência Externa Aeroporto de Salvador"
+    "name": "Agência Externa Aeroporto de Salvador"
   },
   {
     "key": "FW.ECAJU",
     "latitude": -10.987569,
     "longitude":-37.071335,
-	"name": "Agência Aeroporto de Aracaju"
+    "name": "Agência Aeroporto de Aracaju"
   }
   	
  ]
