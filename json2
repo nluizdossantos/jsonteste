@@ -1,1 +1,97 @@
-teste
+[{
+		"key": "FW.CMDLS",
+		"latitude": -19.665861,
+		"longitude": -43.934306,
+		"name": "Centro Manutenção Lagoa Santa"
+	},
+	{
+		"key": "FW-AABSB",
+		"latitude": -15.870240,
+		"longitude": -47.920843,
+		"name": "Agência Aeroporto Brasília"
+	},
+	{
+		"key": "FW-ACBTL",
+		"latitude": -25.446162,
+		"longitude": -49.295836,
+		"name": "Agência Centro Curitiba Batel"
+	},
+	{
+		"key": "FW-ACSJK",
+		"latitude": -23.210204,
+		"longitude": -45.901171,
+		"name": "Agência Centro São José Campos"
+	},
+	{
+		"key": "FW-ACTAT",
+		"latitude": -23.541879,
+		"longitude": -46.576187,
+		"name": "Agência Centro Tatuapé"
+	},
+	{
+		"key": "FW-CDCRB",
+		"latitude": -25.527375,
+		"longitude": -49.185110,
+		"name": "Centro de Distribuição Curitiba"
+	},
+	{
+		"key": "FW-CDCTN",
+		"latitude": -23.509057,
+		"longitude": -46.615253,
+		"name": "Centro de Distribuição Center Norte"
+	},
+	{
+		"key": "FW-CDIGA",
+		"latitude": -20.033028,
+		"longitude": -44.309443,
+		"name": "Centro de Distribuição Igarapé "
+	},
+	{
+		"key": "FW-CDJPA",
+		"latitude": -7.121972,
+		"longitude": -34.911644,
+		"name": "Centro de Distribuição João Pessoa"
+	},
+	{
+		"key": "FW-CDPOA",
+		"latitude": -29.963036,
+		"longitude": -51.187415,
+		"name": "Centro de Distribuição Porto Alegre "
+	},
+	{
+		"key": "FW-CDSBC-AEX",
+		"latitude": -23.758710,
+		"longitude": -46.574407,
+		"name": "Centro de Distribuição São Bernardo do Campo"
+	},
+	{
+		"key": "FW-CDSSA",
+		"latitude": -12.903390,
+		"longitude": -38.343283,
+		"name": "Centro de Distribuição Salvador"
+	},
+	{
+		"key": "FW-CMAJU",
+		"latitude": -10.988430,
+		"longitude": -37.059942,
+		"name": "Centro Manutenção Aracaju"
+	},
+	{
+		"key": "FW-CMDGY",
+		"latitude": -16.806086,
+		"longitude": -49.267279,
+		"name": "Centro Manutenção Goiânia "
+	},
+	{
+		"key": "FW-CMDRJ",
+		"latitude": -22.797433,
+		"longitude": -43.354875,
+		"name": "Centro Manutenção Rio de Janeiro"
+	},
+	{
+		"key": "FW-CMREC",
+		"latitude": -8.126464,
+		"longitude": -34.911411,
+		"name": "Centro Manutencao Recife"
+	}
+]
