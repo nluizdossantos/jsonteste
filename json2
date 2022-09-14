@@ -1,4 +1,244 @@
 [{
+		"key": "FW.AEXSDU",
+		"latitude": -22.91752,
+		"longitude": -43.17798,
+		"name": "Agência Aeroporto Santos Dumont"
+	},
+	{
+		"key": "FW.AAIMP1",
+		"latitude": -5.531065,
+		"longitude": -47.459210,
+		"name": "Agência Box Aeroporto de Imperatriz"
+	},
+	{
+		"key": "FW.ACTCO",
+		"latitude": -16.58920,
+		"longitude": -39.09730,
+		"name": "Agência Centro Trancoso"
+	},
+	{
+		"key": "FW.AAJER1",
+		"latitude": -2.90546,
+		"longitude": -40.34818,
+		"name": "Agência Aeroporto de Jericoacoara"
+	},
+	{
+		"key": "FW.AANAT1",
+		"latitude": -5.76331,
+		"longitude": -35.37272,
+		"name": "Agência Aeroporto de Natal"
+	},
+	{
+		"key": "FW.AARPT",
+		"latitude": -21.139935,
+		"longitude": -47.777081,
+		"name": "Agência Aeroporto de Ribeirão Preto"
+	},
+	{
+		"key": "FW.AAVIX",
+		"latitude": -20.267008,
+		"longitude": -40.284031,
+		"name": "Agência Aeroporto de Vitória"
+	},
+	{
+		"key": "FW.ACALP",
+		"latitude": -23.498627,
+		"longitude": -46.855101,
+		"name": "Agência Centro Alphavile"
+	},
+	{
+		"key": "FW.ACBAL",
+		"latitude": -27.000181,
+		"longitude": -48.630438,
+		"name": "Agência Centro Balneário Camboriú"
+	},
+	{
+		"key": "FW.ACBSB",
+		"latitude": -15.871195,
+		"longitude": -47.931455,
+		"name": "Agência Centro Brasília"
+	},
+	{
+		"key": "FW.ACCOP",
+		"latitude": -22.963342,
+		"longitude": -43.173897,
+		"name": "Agência Centro Copacabana "
+	},
+	{
+		"key": "FW.ACFAL",
+		"latitude": -23.570521,
+		"longitude": -46.691448,
+		"name": "Agência Centro Faria Lima "
+	},
+	{
+		"key": "FW.ACIMP",
+		"latitude": -5.532869,
+		"longitude": -47.456634,
+		"name": "Agência Centro Imperatriz"
+	},
+	{
+		"key": "FW.ACJKK",
+		"latitude": -23.586646,
+		"longitude": -46.673481,
+		"name": "Agência Centro Juscelino Kubitschek"
+	},
+	{
+		"key": "FW.ACNVT",
+		"latitude": -26.882323,
+		"longitude": -48.650633,
+		"name": "Agência Centro Navegantes"
+	},
+	{
+		"key": "FW.ACOTA",
+		"latitude": -23.620436,
+		"longitude": -46.665270,
+		"name": "Agência Centro Otávio Tarquínio  "
+	},
+	{
+		"key": "FW.ACSAV",
+		"latitude": -19.939615,
+		"longitude": -43.932964,
+		"name": "Agência Centro Savassi "
+	},
+	{
+		"key": "FW.ACWTC",
+		"latitude": -23.608861,
+		"longitude": -46.697308,
+		"name": "Agência Centro Shopping D&D"
+	},
+	{
+		"key": "FW.AEXBEL",
+		"latitude": -1.392190,
+		"longitude": -48.479942,
+		"name": "Agência Externa Aeroporto de Belém"
+	},
+	{
+		"key": "FW.AEXBHZ",
+		"latitude": -19.660974,
+		"longitude": -43.935869,
+		"name": "Agência Externa Aeroporto de Confins  "
+	},
+	{
+		"key": "FW.AEXCGR",
+		"latitude": -20.456006,
+		"longitude": -54.673865,
+		"name": "Agência Externa Aeroporto de Campo Grande"
+	},
+	{
+		"key": "FW.AEXCPQ",
+		"latitude": -23.008262,
+		"longitude": -47.146656,
+		"name": "Agência Externa Aeroporto de Viracopos"
+	},
+	{
+		"key": "FW.AEXCUI",
+		"latitude": -15.649187,
+		"longitude": -56.123146,
+		"name": "Agência Externa Aeroporto de Cuiabá "
+	},
+	{
+		"key": "FW.AEXCWB",
+		"latitude": -25.537874,
+		"longitude": -49.176321,
+		"name": "Agência Externa Aeroporto Curitiba "
+	},
+	{
+		"key": "FW.AEXFLN",
+		"latitude": -27.677853,
+		"longitude": -48.547361,
+		"name": "Agência Externa Aeroporto de Florianópolis "
+	},
+	{
+		"key": "FW.AEXFOR",
+		"latitude": -3.780744,
+		"longitude": -38.535968,
+		"name": "Agência Externa Aeroporto de Fortaleza"
+	},
+	{
+		"key": "FW.AEXGIG",
+		"latitude": -22.816765,
+		"longitude": -43.238511,
+		"name": "Agência Externa Aeroporto do Galeão"
+	},
+	{
+		"key": "FW.AEXGRU",
+		"latitude": -23.447117,
+		"longitude": -46.489563,
+		"name": "Agência Externa Aeroporto de Guarulhos"
+	},
+	{
+		"key": "FW.AEXGYN",
+		"latitude": -16.628278,
+		"longitude": -49.207663,
+		"name": "Agência Externa Aeroporto de Goiânia"
+	},
+	{
+		"key": "FW.AEXIOS",
+		"latitude": -14.813993,
+		"longitude": -39.033317,
+		"name": "Agência Externa Aeroporto de Ilhéus"
+	},
+	{
+		"key": "FW.AEXJPA",
+		"latitude": -7.143549,
+		"longitude": -34.947635,
+		"name": "Agência Externa Aeroporto de João Pessoa"
+	},
+	{
+		"key": "FW.AEXMAU",
+		"latitude": -3.031747,
+		"longitude": -60.046266,
+		"name": "Agência Externa Aeroporto de Manaus"
+	},
+	{
+		"key": "FW.AEXMCZ",
+		"latitude": -9.517456,
+		"longitude": -35.792929,
+		"name": "Agência Externa Aeroporto de Maceió"
+	},
+	{
+		"key": "FW.AEXPOA",
+		"latitude": -29.992459,
+		"longitude": -51.185332,
+		"name": "Agência Externa Aeroporto de Porto Alegre"
+	},
+	{
+		"key": "FW.AEXPSG",
+		"latitude": -16.439877,
+		"longitude": -39.078470,
+		"name": "Agência Externa Aeroporto de Porto Seguro"
+	},
+	{
+		"key": "FW.AEXREC",
+		"latitude": -8.132939,
+		"longitude": -34.915794,
+		"name": "Agência Externa Aeroporto de Recife"
+	},
+	{
+		"key": "FW.AEXSLZ",
+		"latitude": -2.581587,
+		"longitude": -44.240497,
+		"name": "Agência Externa Aeroporto de São Luís"
+	},
+	{
+		"key": "FW.AEXSRP",
+		"latitude": -20.812270,
+		"longitude": -49.405135,
+		"name": "Agência Externa Aeroporto de São José do Rio Preto"
+	},
+	{
+		"key": "FW.AEXSSA",
+		"latitude": -12.906276,
+		"longitude": -38.341257,
+		"name": "Agência Externa Aeroporto de Salvador"
+	},
+	{
+		"key": "FW.ECAJU",
+		"latitude": -10.987569,
+		"longitude": -37.071335,
+		"name": "Agência Aeroporto de Aracaju"
+	},
+	{
 		"key": "FW.CMDLS",
 		"latitude": -19.665861,
 		"longitude": -43.934306,
