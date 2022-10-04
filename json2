@@ -8,7 +8,13 @@
 		"key": "FW.AAIMP1",
 		"latitude": -5.531065,
 		"longitude": -47.459210,
-		"name": "Agência Box Aeroporto de Imperatriz"
+		"name": "Agência Aeroporto de Imperatriz"
+	},
+	{
+		"key": "FW.ACIMP",
+		"latitude": -5.532959,,
+		"longitude":  -47.456731,
+		"name": "Agência Centro de Imperatriz"
 	},
 	{
 		"key": "FW.ACTCO",
